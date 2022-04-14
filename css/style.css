@@ -399,7 +399,6 @@ h2{
 and (min-width: 1024px)
 and (max-width: 1380px){
 .products .container {
-  height: 1300px;
   justify-content: normal;
   text-align: center;
 }
