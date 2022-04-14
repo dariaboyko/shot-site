@@ -402,6 +402,9 @@ and (max-width: 1380px){
   justify-content: normal;
   text-align: center;
 }
+.products .infoBox .container{
+  flex-direction: column;
+}
 .box{
   margin: 0 auto;
 }
